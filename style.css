@@ -1,0 +1,43 @@
+.background{
+background-image: url(https://th.bing.com/th/id/R.d066c171aaf81e7b52360864f00f0293?rik=tee214q6eLQuTw&pid=ImgRaw&r=0);
+ background-size: cover;
+ background-position: center;
+ min-height: 60vh;
+ 
+}
+
+.form-color{
+    background-color: rgba(240, 248, 255, 0.932);
+}
+
+.banner-text{
+    font-size: 40px;
+    text-shadow:0 0 10px rgba(8, 8, 8, 0.733);
+    color: rgb(255, 255, 255);  
+    text-align: left;
+
+}
+.place-holder{
+    min-height: 300px;
+
+}
+.card-drop{
+    transform: translateY(50%);
+}
+
+.card-dim{
+    width: 550px;
+    height: 300px;
+    border-radius: 8px;
+}
+
+@media screen and (max-width: 768px) {
+    .card-drop{
+        transform: translateY(0);
+    }
+    
+}
+.font{
+font-family: 'Roboto Condensed', sans-serif;
+font-weight: 600;
+}
