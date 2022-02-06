@@ -56,3 +56,8 @@ font-weight: 600;
     height: 250px;
     width: 283px;
 }
+
+.emp-card{
+    height: 300px;
+    min-width: 325px;
+}
