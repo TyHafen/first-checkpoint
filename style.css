@@ -7,7 +7,7 @@ background-image: url(https://th.bing.com/th/id/R.d066c171aaf81e7b52360864f00f02
 }
 
 .form-color{
-    background-color: rgba(240, 248, 255, 0.932);
+    background-color: rgba(240, 248, 255, 0.89);
 }
 
 .banner-text{
@@ -60,4 +60,15 @@ font-weight: 600;
 .emp-card{
     height: 300px;
     min-width: 325px;
+}
+
+.social-img{
+    width: 120px;
+    height: 120px;
+}
+
+.custom-margin{
+ margin-top: 10rem;
+ margin-bottom: 10rem;
+ border-radius: 8px;
 }
