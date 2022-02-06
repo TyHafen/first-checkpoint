@@ -56,11 +56,15 @@ font-weight: 600;
 .three-card-dim{
     height: 250px;
     width: 283px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
 }
 
 .emp-card{
     height: 300px;
     min-width: 325px;
+    
+    
 }
 
 .social-img{
@@ -72,4 +76,10 @@ font-weight: 600;
  margin-top: 10rem;
  margin-bottom: 10rem;
  border-radius: 8px;
+}
+
+.special-font{
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Roboto Condensed', sans-serif;
 }
