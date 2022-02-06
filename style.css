@@ -18,7 +18,9 @@ background-image: url(https://th.bing.com/th/id/R.d066c171aaf81e7b52360864f00f02
 
 }
 .place-holder{
-    min-height: 300px;
+    height: 650px;
+    width: 475px;
+    border-radius: 8px;
 
 }
 .card-drop{
@@ -40,4 +42,17 @@ background-image: url(https://th.bing.com/th/id/R.d066c171aaf81e7b52360864f00f02
 .font{
 font-family: 'Roboto Condensed', sans-serif;
 font-weight: 600;
+}
+
+.color-scheme-mid{
+    background-color: hsl(180, 15%, 18%);
+}
+.color-scheme-light{
+     background-color: hsl(180, 73%, 90%);
+
+}
+
+.three-card-dim{
+    height: 250px;
+    width: 283px;
 }
